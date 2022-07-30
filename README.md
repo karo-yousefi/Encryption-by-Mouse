@@ -1,6 +1,5 @@
 # Encryption-by-Mouse
-Hello. This my first project on github. 
-
+ 
 As you might know 'random' in programming is NOT truly random. So I wrote this code which
 uses mouse movement as an input to generating random characters and then uses those characters
 to encrypt a plain text.
