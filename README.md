@@ -7,7 +7,5 @@ to encrypt a plain text.
 
 Finaly it can generate a key for you in a txt file.
 
-It's not that useful right now but i thought it's good to share this with you.
 
 
-Email: karoyousefi.80@gmail.com
